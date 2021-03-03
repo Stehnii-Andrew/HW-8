@@ -1,0 +1,26 @@
+@import "./fontello.css";
+
+@import "./fontello1.css";
+
+@import "./fontello2.css";
+
+.path:hover {
+    fill: aquamarine;
+}
+
+.img-mem {
+    width: 300px;
+}
+
+.animate-spin {
+    -moz-animation: spin 2s infinite linear;
+    -o-animation: spin 2s infinite linear;
+    -webkit-animation: spin 2s infinite linear;
+    animation: spin 2s infinite linear;
+    display: inline-block;
+    font-size: 20px;
+    font-family:'YouTube';
+}
+
+
+
